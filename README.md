@@ -77,9 +77,9 @@ Live Preview of the Site: https://flipzon-project.herokuapp.com/
 
 | S.No | Name             | Pages                                |
 | ---- | ---------------- | ------------------------------------ |
-| 1    | Chanakyha        | ["Create Account/Login Page","Cart"] |
-| 2    | Atharva          | ["Account Details"]                  |
-| 3    | Rashwanth        | ["Home Page","Payment Method"]       |
-| 4    | Jyothi Sai Kiran | ["Each Mobile Page","About Us"]      |
+| 1    | Praveenraj       | ["Create Account/Login Page","Cart"] |
+| 2    | Santhosh         | ["Account Details"]                  |
+| 3    | Raswanth         | ["Home Page","Payment Method"]       |
+| 4    | Ranjith Kumar    | ["Each Mobile Page","About Us"]      |
 
 

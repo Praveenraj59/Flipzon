@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "avatar": "",
+    "name": "Chanakyha",
+    "age": 18,
+    "address": "Chennai-600082",
+    "number": "7550148119",
+    "email": "vetrichanakyha2003@gmail.com",
+    "password": "chan2109",
+    "cart": [],
+    "cards": [
+      {
+        "number": 1234567898965432,
+        "type": "Debit Card",
+        "bank": "State Bank of India",
+        "holderName": "Chan"
+      },
+      {
+        "number": 1234567812345678,
+        "type": "Credit Card",
+        "bank": "State Bank of India",
+        "holderName": "Chanakyha"
+      }
+    ],
+    "orders": [
+      {
+        "id": 100001,
+        "products": [
+          {
+            "id": 9002,
+            "prouctName": "Iphone 13 pro max",
+            "quantity": 1,
+            "img": "iphone-13-pro-max-blue-select.jpg",
+            "finalProductPrice": 25111
+          }
+        ],
+        "deliveryDate": "Sun Feb 13 2022",
+        "pin": 8437,
+        "address": "501, SRM ramapuram, Chennai, 400092, India",
+        "status": "Cancelled",
+        "totalPrice": 256324
+      },
+      {
+        "id": 100002,
+        "products": [
+          {
+            "id": "9001",
+            "prouctName": "Realme x3 Superzoom",
+            "quantity": "x1",
+            "img": "",
+            "finalProductPrice": 22648
+          },
+          {
+            "id": "9003",
+            "prouctName": "Redmi Note 10S",
+            "quantity": "x1",
+            "img": "",
+            "finalProductPrice": 14000
+          }
+        ],
+        "deliveryDate": "Sun Feb 20 2022",
+        "pin": 9444,
+        "address": "501, SRM ramapuram, Chennai, 400092, India",
+        "status": "Ordered",
+        "totalPrice": 38480.4
+      }
+    ],
+    "prime": false
+  },
+  {
+    "id": 2,
+    "avatar": "",
+    "name": "Atharva Patil",
+    "age": 18,
+    "address": "",
+    "number": "999999999",
+    "email": "atharva.p@gmail.com",
+    "password": "atharva",
+    "cart": [],
+    "cards": [],
+    "orders": [],
+    "prime": true
+  }
+]
